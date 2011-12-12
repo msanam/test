@@ -1,0 +1,49 @@
+#gpp_photoswipe .option-inner {
+	float: left;
+	margin: 12px 15px;
+	padding: 10px 15px;
+	width: 650px;
+}
+textarea {
+	width:275px;margin-bottom: 9px !important;
+}
+
+#gpp_photoswipe .titledesc {
+	cursor: auto;
+	display: block;
+	float: left;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 2em;
+	margin-right: 10px;
+	width: 150px;
+}
+
+#gpp_photoswipe .option {
+	overflow: hidden;
+	width: 685px;
+}
+
+#gpp_photoswipe .forminp {
+	float: left;
+	margin-right: 15px;
+	max-width: 290px;
+}
+
+#gpp_photoswipe .desc {
+	color: #999999;
+	font-size: 10px;
+	overflow: hidden;
+	vertical-align: middle !important;
+}
+
+#gpp_photoswipe .formcontainer {
+	float: left;
+	width: 490px;
+}
+
+label {
+	vertical-align: middle;
+}			
+
+
