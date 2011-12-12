@@ -2,7 +2,7 @@
 /*
 Plugin Name: GPP Photoswipe	
 Description: A photoswipe plugin.
-Version: 1.1
+Version: 1.0
 License: GPL
 Author: Graph Paper Press
 Author URI: http://graphpaperpress.com
